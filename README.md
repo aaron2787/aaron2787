@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aaron2787
-- 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning hacking and different programming languages
+- 👀 I’m interested in coding
 - 📫 How to reach me: you can't rech me :)
 - ⚡ Fun fact: no fun facts
 
